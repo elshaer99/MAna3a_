@@ -45,6 +45,18 @@ body, .container, .video-controls, .video-timer, .options {
     padding: 20px 0px;
     
 }
+
+
+
+a:link, a:visited {
+  background-color: black;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inl
+
+
 .tit h1{
     position: absolute;
     color: #ffffff;
