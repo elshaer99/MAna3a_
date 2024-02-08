@@ -48,7 +48,7 @@ body, .container, .video-controls, .video-timer, .options {
 
 
 
-a:link, a:visited {
+.tit a:link, a:visited {
   background-color: black;
   color: white;
   padding: 15px 25px;
