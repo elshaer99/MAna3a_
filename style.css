@@ -1,4 +1,4 @@
-/* Import Google font - Poppins */
+* Import Google font - Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
@@ -45,16 +45,6 @@ body, .container, .video-controls, .video-timer, .options {
     padding: 20px 0px;
     
 }
-
-
-
-.tit a:link, a:visited {
-  background-color: black;
-  color: white;
-  padding: 15px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inl
 
 
 .tit h1{
