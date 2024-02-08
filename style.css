@@ -306,3 +306,26 @@ body, .container, .video-controls, .video-timer, .options {
     display: none;
   }
 }
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  font-family: 'Rubik Maps', system-ui;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
